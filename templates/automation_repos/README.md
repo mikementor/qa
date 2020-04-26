@@ -2,6 +2,8 @@
 # Project name
 
 # Table of contents
+- [Requirements](#requirements)
+- [Coverage](#coverage)
 - [Environment variables](#environment-variables)
 - [How to install](#how-to-install)
 - [How to run](#how-to-run)
@@ -12,6 +14,8 @@
 - [Maintainers](#maintainers)
 - [Known Issues](#known-issues)
 
+# Requirements
+# Coverage
 # Environment variables
 # How to install
 # How to run
